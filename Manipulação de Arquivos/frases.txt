@@ -1,0 +1,3 @@
+Estudando Python.
+Programando em Python.
+Manipulação de arquivos.

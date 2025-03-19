@@ -1,0 +1,3 @@
+Python é uma linguagem poderosa.
+Manipular arquivos é fácil em Python.
+Podemos ler, escrever e mover o cursor facilmente.
