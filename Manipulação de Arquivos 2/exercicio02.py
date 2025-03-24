@@ -15,7 +15,6 @@ def comparar_arquivos_binarios(arquivo1, arquivo2):
 
             posicao += 1
 
-
 comparar_arquivos_binarios("arquivo1.bin", "arquivo2.bin")
 comparar_arquivos_binarios("arquivo1.bin", "arquivo3.bin")
 comparar_arquivos_binarios("arquivo2.bin", "arquivo3.bin")
