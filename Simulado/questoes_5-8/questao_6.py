@@ -27,5 +27,3 @@ def adicionar_produto():
             break
 
     print(f"Registros adicionados!")
-
-adicionar_produto()

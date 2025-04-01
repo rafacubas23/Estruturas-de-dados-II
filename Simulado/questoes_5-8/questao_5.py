@@ -8,5 +8,3 @@ def ver_produtos():
         preco = linha[19:].rjust(5)
 
         print(f"Código: {codigo} | Produto: {nome_produto} | Preço: {preco}")
-
-ver_produtos()

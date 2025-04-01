@@ -13,5 +13,3 @@ porém é necessário que os dados que fazem parte do domínio de busca estejam 
 
 Utiliza 3 ponteiros (início, meio e fim) para verificar se o valor de busca está no meio de um vetor,
 ou se é menor ou maior que o valor do meio, para então redefinir o meio da nova subparte considerada para a busca.
-
-5)

@@ -43,5 +43,3 @@ def atualizar_produto():
     f.close()
 
     print("Arquivo atualizado com sucesso!")
-
-atualizar_produto()
