@@ -1,0 +1,10 @@
+1234Caneta Azul    10.50
+1415ChevetteTurbo  99.99
+0020SuperTurbo5000010.00
+0150teste teste 12310.50
+1234Testandofinal  50.50
+4321finalTestando  05.05
+5678Teste ultimo   10.15
+1111rafael         10.00
+4444testehaha      10.01
+111115             00.00
