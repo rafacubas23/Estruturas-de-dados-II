@@ -1,0 +1,17 @@
+1)respostas corretas:
+Para o arquivo “arq1.txt” será exibido “domingo” e “ingo”.
+Para o arquivo “arq2.txt” será exibido “Reveillon” e “eillon”.
+
+2)V, F, V, V, F.
+
+3)resposta correta:
+A saída será MFJ2527 004 2011:
+
+4)respostas corretas:
+É um tipo de pesquisa indicado para grandes volumes de dados,
+porém é necessário que os dados que fazem parte do domínio de busca estejam ordenados.
+
+Utiliza 3 ponteiros (início, meio e fim) para verificar se o valor de busca está no meio de um vetor,
+ou se é menor ou maior que o valor do meio, para então redefinir o meio da nova subparte considerada para a busca.
+
+5)
