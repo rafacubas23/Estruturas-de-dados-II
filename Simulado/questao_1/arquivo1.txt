@@ -1,0 +1,7 @@
+domingo
+segunda
+terça
+quarta
+quinta
+sexta
+sabado
